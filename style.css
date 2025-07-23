@@ -162,7 +162,7 @@
 
     .profile-img {
       width: 150px;
-      height: 150px;
+      height: 200px;
       border-radius: 15px;
       object-fit: cover;
       border: 3px solid var(--cyber-cyan);
